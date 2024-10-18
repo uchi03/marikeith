@@ -1,0 +1,33 @@
+.footer {
+    background-color: pink;
+    text-align: center;
+    padding: 10px 0;
+    position: auto;
+    height: 40px;
+    width: 100%;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    bottom:0;
+    left:0;
+}
+
+.social-links {
+    margin-left: 20px;
+  }
+  
+  .social-links a {
+    margin-left: 30px;
+    display: inline-block;
+  }
+  
+  .social-links img {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .footer p {
+    margin-right: 800px;
+  }
